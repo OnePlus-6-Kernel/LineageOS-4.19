@@ -1,0 +1,4 @@
+[submodule "dtc"]
+	path = dtc
+	url = https://github.com/Grill-Laux/android_prebuilts_misc_linux-x86_dtc_dtc.git
+
